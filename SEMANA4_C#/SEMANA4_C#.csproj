@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>SEMANA4_C_.ejer1</StartupObject>
+    <StartupObject>SEMANA4_C_.ejer4</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
