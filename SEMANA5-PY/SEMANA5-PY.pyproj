@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>57ab7b04-f557-4071-9f1d-7682382798fd</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>ejer3.py</StartupFile>
+    <StartupFile>ejer4.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -25,6 +25,7 @@
   <ItemGroup>
     <Compile Include="ejer2.py" />
     <Compile Include="ejer3.py" />
+    <Compile Include="ejer4.py" />
     <Compile Include="SEMANA5_PY.py" />
   </ItemGroup>
   <ItemGroup>
